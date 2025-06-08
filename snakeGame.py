@@ -1,5 +1,3 @@
-# Lyna Benkherouf
-#
 # This program implements the classic Snake Game using Python's turtle module.
 # It draws the game board, the snake, and the artifacts that allow the snake to grow.
 #
